@@ -111,3 +111,30 @@ display: block;
 margin: 0 auto;
 }
 
+footer nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+    text-align: center;
+}
+
+footer nav ul li a{
+    pad: 0.5rem;
+
+}
+
+#social-icons{
+    padding: 0;
+    margin: 1rem 0;
+    text-align: center;
+}
+
+#social-icons li{
+    display: inline-block;
+    background-color: #433f3f;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    padding: 1rem;
+    border-radius: 50%;
+}
